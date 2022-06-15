@@ -4,7 +4,7 @@ They are run with an interpreter such as pyRevit.
 
 |script|description|
 |------|-----------|
-|[MEP_intersections](https://github.com/BimMax/Autodesk/tree/main/MEP_intersections)|script finds for intersections between pipes, ducts and walls, floors and set the whole family with appropriate dimensions. |
+|[MEP_intersections](https://github.com/BimMax/Autodesk/tree/main/MEP_intersections)|script finds intersections between pipes, ducts and walls, floors and set the whole family with appropriate dimensions. |
 |[foundation drawings](https://github.com/BimMax/Autodesk/tree/main/foundation%20drawings)|script creates set of views, schedules of materials and rebars for each columnar foundation mark. |
 |[quick transparency](https://github.com/BimMax/Autodesk/tree/main/quick%20transparency)|script script sets 100% transparency for selected the object in the active view. |
 |[quick view cropping](https://github.com/BimMax/Autodesk/tree/main/quick%20view%20cropping)|script allows you to crop the view by desired size in two clicks. |
